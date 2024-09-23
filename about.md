@@ -8,10 +8,10 @@ permalink: /about/
 
 I’m Youngsun Kim, a researcher, educator, and professional specializing in risk management and actuarial science. My work integrates predictive analytics, socioeconomic access to insurance, and the impact of natural hazards on insurance pricing, spanning interdisciplinary fields that address key challenges in the insurance industry.
 
-I received my B.A. in [Public Administration][kupa] from [Korea University][ku] (KU) in 2009.
+I received my B.A. in Public Administration from [Korea University][kupa] (KU) in 2009.
 After graduation, I joined my family business, working as an operations assistant until 2012. In 2013, I moved to the United States to pursue dual Master’s degrees in Risk Management and Insurance (RMI) and Actuarial Science (AS) at [Georgia State University][gsu].
 Following my studies, I returned to South Korea in 2015 and began my consulting career as an Actuarial Analyst at [Towers Watson][tw].
-After two and a half rewarding years, I decided to further my academic journey by pursuing a PhD. In 2018, I joined the PhD program in Insurance Economics and Actuarial Analytics at the Wisconsin School of Business [Wisconsin School of Business][wsb].
+After two and a half rewarding years, I decided to further my academic journey by pursuing a PhD. In 2018, I joined the PhD program in Insurance Economics and Actuarial Analytics at the [Wisconsin School of Business][wsb].
 
 
 <br/>
@@ -43,7 +43,6 @@ Minor in Economics
 <br/>
 
 
-[ku]: https://www.korea.ac.kr/
 [kupa]: https://kupa.korea.ac.kr/
 [gsu]: https://robinson.gsu.edu/academic-departments/risk-science/
 [tw]: https://www.wtwco.com/en-us/solutions/insurance-consulting-and-technology
