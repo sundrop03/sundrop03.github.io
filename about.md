@@ -40,7 +40,7 @@ Minor in Economics
 
 # Curriculum Vitae
 
-[Click here](https://github.com/sundrop03/youngsunkim.github.io/blob/master/CV_Youngsun.pdf) to view the full CV.
+[Click here](https://github.com/sundrop03/sundrop03.github.io/blob/master/CV_Youngsun.pdf) to view the full CV.
 
 <br/>
 
