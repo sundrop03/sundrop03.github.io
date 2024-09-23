@@ -6,6 +6,8 @@ date: 2024-09-22
 permalink: /about/
 ---
 
+<img src="/assets/Profile_YK.jpg" alt="Profile Picture" style="width:200px; height:200px; border-radius:50%; display:block; margin-left:auto; margin-right:auto;">
+
 I’m Youngsun Kim, a researcher, educator, and professional specializing in risk management and actuarial science. My work integrates predictive analytics, socioeconomic access to insurance, and the impact of natural hazards on insurance pricing, spanning interdisciplinary fields that address key challenges in the insurance industry.
 
 I received my B.A. in Public Administration from [Korea University][kupa] (KU) in 2009.
