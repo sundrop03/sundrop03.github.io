@@ -6,14 +6,12 @@ date: 2024-09-22
 permalink: /about/
 ---
 
-I’m Youngsun Kim, a researcher, educator, and professional specializing in risk management and actuarial science. My research spans interdisciplinary areas, including predictive analytics in actuarial science, socioeconomic access to insurance, and the impact of natural hazards on insurance pricing.
+I’m Youngsun Kim, a researcher, educator, and professional specializing in risk management and actuarial science. My work integrates predictive analytics, socioeconomic access to insurance, and the impact of natural hazards on insurance pricing, spanning interdisciplinary fields that address key challenges in the insurance industry.
 
-I received my B.A. degree in [Public Administration][kupa] from [Korea University][ku] (KU) in 2009.
-After graduation, I joined my family business and worked as an operations assistant until the end of 2012.
-In 2013, I moved to the United States to start my Master's study in Risk Management and Insurance and Actuarial Science at [Georgia State University][gsu].
-In 2015, I moved back to South Korea and started my insurance consulting career at [Towers Watson][tw] as an Actuarial Analyst.
-After two and a half wonderful years, I chose to pursue my dream of studying towards a PhD.
-In 2018, I joined the PhD program in Insurance Economics and Actuarial Analytics offered by the Risk and Insurance Department at the Wisconsin School of Business [Wisconsin School of Business][wsb].
+I received my B.A. in [Public Administration][kupa] from [Korea University][ku] (KU) in 2009.
+After graduation, I joined my family business, working as an operations assistant until 2012. In 2013, I moved to the United States to pursue dual Master’s degrees in Risk Management and Insurance (RMI) and Actuarial Science (AS) at [Georgia State University][gsu].
+Following my studies, I returned to South Korea in 2015 and began my consulting career as an Actuarial Analyst at [Towers Watson][tw].
+After two and a half rewarding years, I decided to further my academic journey by pursuing a PhD. In 2018, I joined the PhD program in Insurance Economics and Actuarial Analytics at the Wisconsin School of Business [Wisconsin School of Business][wsb].
 
 
 <br/>
