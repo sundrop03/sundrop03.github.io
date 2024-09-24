@@ -3,7 +3,7 @@ layout: post
 title: About
 author: "youngsun kim"
 date: 2024-09-22  
-permalink: /about/
+permalink: /
 ---
 
 <img src="/assets/Profile_YK.jpg" alt="Profile Picture" style="width:200px; height:200px; border-radius:50%; display:block; margin-left:auto; margin-right:auto;">
