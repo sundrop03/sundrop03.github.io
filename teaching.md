@@ -6,14 +6,14 @@ permalink: /teaching/
 ---
 
 ### ACTSCI:301 Actuarial Science Methods II (Lecturer - Undergraduate course)
--  2024 Spring
--  2023 Fall
--  2023 Spring
--  2022 Fall
--  2022 Spring
--  2021 Fall
--  2021 Spring
--  2020 Fall
+-  2024 Spring: In-person
+-  2023 Fall: In-person
+-  2023 Spring: In-person
+-  2022 Fall: In-person
+-  2022 Spring: In-person
+-  2021 Fall: In-person
+-  2021 Spring: Online
+-  2020 Fall: Online
 
 ### GENBUS:656 Machine Learning for Business Analytics (TA - Graduate course)
 -  2023 Fall
