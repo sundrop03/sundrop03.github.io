@@ -11,7 +11,6 @@ permalink: /research/
 Kim, Y. and Bauer, D.<br/>
 *Submitted for publication*<br/>
 *Abstract:* With increasing data availability, the use of machine learning methods has gained popularity in insurance. Applications include novel areas for the use of models, for instance for automating business processes, as well as conventional actuarial prediction tasks such as claims or loss prediction. However, with the limited amount of labeled data due to claims being a rare occurrence, the superiority of advanced learners---particularly deep neural networks that have led to major advances in other domains---remains unclear. 
-
 In other fields, *transfer learning* has been proposed as a potential solution in similar contexts. Transfer learning refers to taking the knowledge from one problem and applying it to a new but related problem, which can reduce the cost of collecting additional labeled data and improve the model performance. In this paper, various transfer learning approaches are introduced and applied to publicly available insurance data sets. The performance of each approach is evaluated compared to a baseline model in the context of predicting insurance claims. The results highlight transfer learning as a useful tool for the actuarial toolkit.
 
 0. **Insurance Agency Location: Revisiting Squires, Velez, and Taeuber (1991)**<br/>
