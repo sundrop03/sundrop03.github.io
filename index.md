@@ -2,7 +2,7 @@
 layout: post
 title: About
 author: "youngsun kim"
-date: 2024-09-22  
+date: 2025-02-04  
 permalink: /
 ---
 
