@@ -18,7 +18,7 @@ In other fields, *transfer learning* has been proposed as a potential solution i
   </p>
 </details>
 
-0. **Insurance Agency Locations in Milwaukee: Insights from New Data and Agency Differentiation**<br/>
+2. **Insurance Agency Locations in Milwaukee: Insights from New Data and Agency Differentiation**<br/>
 Kim, Y.<br/>
 *Submitted for publication*<br/>
 <details>
@@ -28,7 +28,7 @@ Kim, Y.<br/>
   </p>
 </details>
 
-0. **Cross-subsidization in the Personal Insurance Markets: Evidence from Different Business Lines**<br/>
+3. **Cross-subsidization in the Personal Insurance Markets: Evidence from Different Business Lines**<br/>
 Kim, Y. and Bauer, D.<br/>
 <details>
   <summary>Abstract</summary>
