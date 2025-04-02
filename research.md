@@ -17,7 +17,6 @@ permalink: /research/
 In other fields, *transfer learning* has been proposed as a potential solution in similar contexts. Transfer learning refers to taking the knowledge from one problem and applying it to a new but related problem, which can reduce the cost of collecting additional labeled data and improve the model performance. In this paper, various transfer learning approaches are introduced and applied to publicly available insurance data sets. The performance of each approach is evaluated compared to a baseline model in the context of predicting insurance claims. The results highlight transfer learning as a useful tool for the actuarial toolkit.  
      </p>
    </details>
-    <br>
 
 # Working Papers
 
