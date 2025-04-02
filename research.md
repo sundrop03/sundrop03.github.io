@@ -43,11 +43,11 @@ In other fields, *transfer learning* has been proposed as a potential solution i
 # Conference Presentations
 
 ### 2023
-1. **Persistence of Insurance Redlining.**
-Kim, Y.<br/>
-In *The 58th Actuarial Research Conference. Des Moines, Iowa.*
+1. **Persistence of Insurance Redlining**
+<br/>
+At *The 58th Actuarial Research Conference. Des Moines, Iowa.*
 
 ### 2022
 1. **Transfer Learning in Actuarial Science**
-Kim, Y.<br/>
-In *The 57th Actuarial Research Conference. Urbana-Champaign, Illinois.*
+<br/>
+At *The 57th Actuarial Research Conference. Urbana-Champaign, Illinois.*
