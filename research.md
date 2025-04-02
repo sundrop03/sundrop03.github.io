@@ -5,11 +5,11 @@ author: "youngsun kim"
 permalink: /research/
 ---
 
-# Working Papers
+# Publications
 
 1. **Transfer Learning in the Actuarial Domain: Foundations and Applications**<br/>
    Kim, Y. and Bauer, D.<br/>
-   *Conditionally accepted at North American Actuarial Journal*<br/>
+   *North American Actuarial Journal, Forthcoming*<br/>
    <details>
      <summary>Abstract</summary>
      <p>
@@ -19,7 +19,9 @@ In other fields, *transfer learning* has been proposed as a potential solution i
    </details>
     <br>
 
-2. **Insurance Agency Locations in Milwaukee: Insights from New Data and Agency Differentiation**<br/>
+# Working Papers
+
+1. **Insurance Agency Locations in Milwaukee: Insights from New Data and Agency Differentiation**<br/>
    Kim, Y.<br/>
    *Submitted for publication*<br/>
    <details>
@@ -30,7 +32,7 @@ In other fields, *transfer learning* has been proposed as a potential solution i
    </details>
     <br>
 
-3. **Cross-subsidization in the Personal Insurance Markets: Evidence from Different Business Lines**<br/>
+2. **Cross-subsidization in the Personal Insurance Markets: Evidence from Different Business Lines**<br/>
    Kim, Y. and Bauer, D.<br/>
    <details>
      <summary>Abstract</summary>
